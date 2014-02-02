@@ -30,6 +30,7 @@ public final class CheckClasses {
             XPathSubExpressionsInPredicateCheck.class,
             XPathTextStepsCheck.class,
             XQueryVersionCheck.class,
+            UnusedImportCheck.class
     };
 
     public static List<Class> getDefaultCheckClasses() {
